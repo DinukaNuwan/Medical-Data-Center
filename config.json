@@ -1,0 +1,56 @@
+[
+    {
+        "username": "akila",
+        "password": "202cb962ac59075b964b07152d234b70",
+        "userType": "staff",
+        "privilegeLevel": "doctor"
+    },
+    {
+        "username": "dinuka",
+        "password": "202cb962ac59075b964b07152d234b70",
+        "userType": "staff",
+        "privilegeLevel": "nurse"
+    },
+    {
+        "username": "kasun",
+        "password": "202cb962ac59075b964b07152d234b70",
+        "userType": "staff",
+        "privilegeLevel": "pharmacy staff"
+    },
+    {
+        "username": "pabidu",
+        "password": "202cb962ac59075b964b07152d234b70",
+        "userType": "staff",
+        "privilegeLevel": "lab staff"
+    },
+    {
+        "username": "chaga",
+        "password": "202cb962ac59075b964b07152d234b70",
+        "userType": "patient",
+        "privilegeLevel": "patient"
+    },
+    {
+        "username": "praveen",
+        "password": "202cb962ac59075b964b07152d234b70",
+        "userType": "patient",
+        "privilegeLevel": "patient"
+    },
+    {
+        "username": "charith",
+        "password": "202cb962ac59075b964b07152d234b70",
+        "userType": "patient",
+        "privilegeLevel": "patient"
+    },
+    {
+        "username": "rusiru",
+        "password": "202cb962ac59075b964b07152d234b70",
+        "userType": "patient",
+        "privilegeLevel": "patient"
+    },
+    {
+        "username": "donjoe",
+        "password": "81dc9bdb52d04dc20036dbd8313ed055",
+        "userType": "patient",
+        "privilegeLevel": "patient"
+    }
+]

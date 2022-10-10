@@ -1,0 +1,49 @@
+[
+    {
+        "patientUsername": "chaga",
+        "sensitivityLevel": "medium",
+        "dataType": "sickness details",
+        "data": {
+            "sikness": "fever",
+            "symptoms": "symp1",
+            "date": "af"
+        }
+    },
+    {
+        "patientUsername": "chaga",
+        "sensitivityLevel": "high",
+        "dataType": "lab test prescriptions",
+        "data": {
+            "test name": "fbc",
+            "result": "good",
+            "date": "sf"
+        }
+    },
+    {
+        "patientUsername": "rusiru",
+        "sensitivityLevel": "medium",
+        "dataType": "drug prescriptions",
+        "data": {
+            "drugs": [
+                "hbf",
+                "hsd",
+                "dfa"
+            ],
+            "date": "hsdshsfd"
+        }
+    },
+    {
+        "patientUsername": "donjoe",
+        "sensitivityLevel": "high",
+        "dataType": "sickness details",
+        "data": {
+            "sikness": "sick 1",
+            "symptoms": [
+                "symp1",
+                "symp2",
+                "symp3"
+            ],
+            "date": "2022-10-01"
+        }
+    }
+]
